@@ -146,7 +146,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 15. click on debug and simulate using simulation 
 
 ## CIRCUIT DIAGRAM 
-![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
+<img src="https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png" width=50%>
 
 
 ## STM 32 CUBE PROGRAM :
