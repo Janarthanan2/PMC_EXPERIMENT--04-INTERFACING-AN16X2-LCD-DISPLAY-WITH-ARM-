@@ -161,7 +161,7 @@ static void MX_GPIO_Init(void);
 void lcd_display()
 {
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"Janarthanan V K C\n");
+	Lcd_string(&lcd,"Janarthanan V K \n");
 	Lcd_cursor(&lcd,1,1);
 	Lcd_string(&lcd,"212222230051");
 
